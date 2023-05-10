@@ -1,4 +1,4 @@
-# Desafio Zuvia Node JS
+# Poke_API Desert
 
 Desert_Poke_Api: API de Gerenciamento de Usuários e Pokémons
 
